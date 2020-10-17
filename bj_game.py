@@ -1,5 +1,5 @@
 '''
-A card game of war. written to practice the use of classes
+A card game of BlackJack written to practice the use of classes
 '''
 import random
 import time
