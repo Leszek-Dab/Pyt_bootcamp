@@ -61,12 +61,6 @@ class Player():
 	def add_won(self,won):
 		self.coins += won
 
-	# def pts_count(self):
-	# 	self.points = 0
-	# 	for card in self.all_cards:
-	# 		self.points += card.value
-	# 	return self.points
-
 	def pts_count(self):
 		self.points = 0
 		ace_bonus = False
